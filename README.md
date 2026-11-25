@@ -1,2 +1,2 @@
 # hello-world
-this ripositoty is for the profetional use of //get in the gethub world
+this ripositoty is for the professional use of //get in the GitHub world
